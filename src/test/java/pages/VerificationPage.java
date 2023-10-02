@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class "VerificationPage {
+public class VerificationPage {
     WebDriver webDriver;
     WebDriverWait wait;
     public VerificationPage(WebDriver webDriver, WebDriverWait wait) {
